@@ -1,0 +1,2 @@
+# Intro 
+I am an Electrical and Computer Engineer with strong background in Computer Science and Mathematics. Experienced in C/C++ programming, Python, Verilog, Embedded Systems, Computer Architecture and Organization, Advanced Intelligent Controls and Neural Networks. Strong analytical mind with an ability to solve complex problems, with a track record of meeting project deadlines under challenging constraints.
